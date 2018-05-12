@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '37580'
     url: http://www.gutenberg.org/2009/agents/37580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35276#Canterbury
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2011-02-15'
 gutenberg_type: Text
